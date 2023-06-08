@@ -1,0 +1,2 @@
+ls -l -a
+awk '{print $1}'
